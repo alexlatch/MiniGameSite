@@ -1,2 +1,2 @@
 # MiniGameSite
-A fun little website made for 
+Mini games, on a website???? :O
